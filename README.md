@@ -27,6 +27,11 @@ choose **Install license file** on the same page to activate it.
 ELNA checks this repository for new versions when it starts and offers to
 install them. Each release lists what changed.
 
+Most updates are optional: choose **Later** to keep working and install at
+another time. An important fix may be marked **required**; ELNA then asks you
+to install it before you can continue. The check needs an internet
+connection, so a show running offline is never interrupted.
+
 ## Your data
 
 Quizzes, teams and scores stay on the computer where ELNA is installed.
