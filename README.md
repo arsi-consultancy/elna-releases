@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/elna-logo.png" alt="ELNA" width="480">
+</p>
+
 # ELNA — Entertainment Live Network Arena
 
 ELNA is an offline quiz show console for Windows. Run a live quiz from one
@@ -15,8 +19,10 @@ for a newly downloaded installer; choose **More info**, then **Run anyway**.
 
 ## First use
 
-ELNA includes a free daily trial: every feature, for 20 minutes of live use
-each day. Building and editing quizzes is never limited.
+ELNA includes a free trial: every feature, for 20 minutes of live use a day,
+on up to 30 different days per computer. While on the trial, the Contestant
+and Broadcaster pictures, and so the NDI feed, carry an "ELNA Trial"
+watermark. Building and editing quizzes is never limited.
 
 To license ELNA, open the **License** page, copy the **Machine ID** and send
 it to contact@arsi.in. You will receive a license file for that computer;
